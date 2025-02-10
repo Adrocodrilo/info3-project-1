@@ -1,0 +1,4 @@
+1,2,1
+XXOXXXX
+XXXXXXX
+0,1,0
